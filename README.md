@@ -2,8 +2,7 @@
 An enthusiastic developer who actively uses GitHub to implement his ideas. I create projects honing my skills in HTML, Python, C++ and Java. We are always looking for new challenges and opportunities for growth.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fedoralekseenko092@gmail.com) 
+
 
 <div align="center"> 
 
